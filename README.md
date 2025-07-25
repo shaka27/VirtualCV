@@ -4,7 +4,7 @@
 This is my online CV showcasing my skills, education, work experience, and contact info.
 
 ## 🌐 Live Demo
-[View Website](#) <!-- Add your live link -->
+[View Website](https://shaka27.github.io/VirtualCV/) <!-- Add your live link -->
 
 ## 🛠️ Built With
 - HTML5  
