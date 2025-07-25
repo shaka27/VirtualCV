@@ -13,7 +13,7 @@ This is my online CV showcasing my skills, education, work experience, and conta
 
 ## 🚀 How to Use
 1. Clone the repo:
-   git clone https://github.com/yourusername/virtual-cv.git
+   git clone https://github.com/shaka27/VirtualCV.git
 2. Open `index.html` in your browser.
 
 
